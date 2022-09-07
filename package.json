@@ -1,0 +1,17 @@
+{
+  "name": "finddev-api",
+  "version": "1.0.0",
+  "description": "e-carros api",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "e-carros, api"
+  ],
+  "author": "Douglas Morais",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.2"
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "category": [
+      { 
+        "id": 0, 
+        "name": "Front-end" 
+      },
+      { 
+        "id": 1, 
+        "name": "Back-end"
+      },
+      { 
+        "id": 2, 
+       	"name": "Mobile" 
+      },
+      { 
+        "id": 3, 
+        "name": "SRE" 
+      },
+      { 
+        "id": 4, 
+        "name": "Cloud Architecture"
+      },
+      { 
+        "id": 5, 
+        "name": "DevOps" 
+      },
+      { 
+        "id": 6, 
+        "name": "QA" 
+      }
+  ],
+  "stacks": [
+    {
+      "id": 0,
+      "label": "React"
+    },
+    {
+      "id": 1,
+      "label": "React Native"
+    },
+		{
+      "id": 2,
+      "label": "NodeJS"
+    },
+		{
+      "id": 3,
+      "label": "C#"
+    },
+		{
+      "id": 4,
+      "label": ".NET"
+    },
+		{
+      "id": 5,
+      "label": "Flutter"
+    },
+		{
+      "id": 6,
+      "label": "Swift"
+    },
+		{
+      "id": 7,
+      "label": "Kotlin"
+    },
+		{
+      "id": 8,
+      "label": "AWS"
+    },
+		{
+      "id": 9,
+      "label": "Azure"
+    },
+		{
+      "id": 10,
+      "label": "Google Cloud Plataform"
+    }
+  ],
+  "state": [
+    {
+      "id": 0,
+      "value": "São Paulo"
+    },
+    {
+      "id": 1,
+      "value": "Minas Gerais"
+    },
+    {
+      "id": 2,
+      "value": "Rio de Janeiro"
+    },
+    {
+      "id": 3,
+      "value": "Paraná"
+    },
+    {
+      "id": 4,
+      "value": "Rio Grande do Sul"
+    },
+    {
+      "id": 5,
+      "value": "Santa Catarina"
+    }
+  ],
+  "devs": [
+    {
+      "id": 0,
+			"photo": "https://dpbnri2zg3lc2.cloudfront.net/en/wp-content/uploads/2021/01/Sam-CF.jpg",
+      "name": "Junior da Silva",
+			"category": 0,
+			"stack": 0,
+			"state": 0,
+			"description": "Desenvolvedor a x anos"
+    },
+    {
+      "id": 1,
+      "photo": "https://dpbnri2zg3lc2.cloudfront.net/en/wp-content/uploads/2021/01/Sam-CF.jpg",
+      "name": "Junior da Silva",
+			"category": 0,
+			"stack": 0,
+			"state": 0,
+			"description": "Desenvolvedor a x anos"
+    },
+    {
+      "id": 3,
+      "photo": "https://dpbnri2zg3lc2.cloudfront.net/en/wp-content/uploads/2021/01/Sam-CF.jpg",
+      "name": "Junior da Silva",
+			"category": 0,
+			"stack": 0,
+			"state": 0,
+			"description": "Desenvolvedor a x anos"
+    },
+    {
+      "id": 4,
+      "photo": "https://dpbnri2zg3lc2.cloudfront.net/en/wp-content/uploads/2021/01/Sam-CF.jpg",
+      "name": "Junior da Silva",
+			"category": 0,
+			"stack": 0,
+			"state": 0,
+			"description": "Desenvolvedor a x anos"
+    },
+    {
+      "id": 5,
+      "photo": "https://dpbnri2zg3lc2.cloudfront.net/en/wp-content/uploads/2021/01/Sam-CF.jpg",
+      "name": "Junior da Silva",
+			"category": 0,
+			"stack": 0,
+			"state": 0,
+			"description": "Desenvolvedor a x anos"
+    },
+    {
+      "id": 6,
+      "photo": "https://dpbnri2zg3lc2.cloudfront.net/en/wp-content/uploads/2021/01/Sam-CF.jpg",
+      "name": "Junior da Silva",
+			"category": 0,
+			"stack": 0,
+			"state": 0,
+			"description": "Desenvolvedor a x anos"
+    },
+    {
+      "id": 7,
+      "photo": "https://dpbnri2zg3lc2.cloudfront.net/en/wp-content/uploads/2021/01/Sam-CF.jpg",
+      "name": "Junior da Silva",
+			"category": 0,
+			"stack": 0,
+			"state": 0,
+			"description": "Desenvolvedor a x anos"
+    }
+  ]
+}
