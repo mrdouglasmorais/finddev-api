@@ -7,7 +7,4 @@
 [Paginação](https://www.npmjs.com/package/json-server#pagination)
 
 ### Publicado no  Heroku
-[Clique aqui para ver o link](https://e-carros-api.herokuapp.com/)
-
-### Hospedagem de imagens
-[Imagem host](https://www.imagemhost.com.br/)
+[Clique aqui para ver o link](https://finddev-api.herokuapp.com/)
