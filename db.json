@@ -114,56 +114,65 @@
     {
       "id": 1,
       "photo": "https://dpbnri2zg3lc2.cloudfront.net/en/wp-content/uploads/2021/01/Sam-CF.jpg",
-      "name": "Junior da Silva",
-			"category": 0,
-			"stack": 0,
-			"state": 0,
-			"description": "Desenvolvedor a x anos"
+      "name": "Douglas Morais",
+			"category": 1,
+			"stack": 3,
+			"state": 1,
+			"description": "Desenvolvedor 6 anos especialista em ...."
     },
     {
       "id": 3,
       "photo": "https://dpbnri2zg3lc2.cloudfront.net/en/wp-content/uploads/2021/01/Sam-CF.jpg",
-      "name": "Junior da Silva",
-			"category": 0,
-			"stack": 0,
-			"state": 0,
-			"description": "Desenvolvedor a x anos"
+      "name": "André Mattos",
+			"category": 3,
+			"stack": 1,
+			"state": 4,
+			"description": "Desenvolvedor das principais stacks do mercado"
     },
     {
       "id": 4,
       "photo": "https://dpbnri2zg3lc2.cloudfront.net/en/wp-content/uploads/2021/01/Sam-CF.jpg",
-      "name": "Junior da Silva",
-			"category": 0,
-			"stack": 0,
-			"state": 0,
-			"description": "Desenvolvedor a x anos"
+      "name": "Caio Arcanjo",
+			"category": 2,
+			"stack": 1,
+			"state": 6,
+			"description": "Desenvolvedor a 2 anos"
     },
     {
       "id": 5,
       "photo": "https://dpbnri2zg3lc2.cloudfront.net/en/wp-content/uploads/2021/01/Sam-CF.jpg",
-      "name": "Junior da Silva",
-			"category": 0,
-			"stack": 0,
-			"state": 0,
-			"description": "Desenvolvedor a x anos"
+      "name": "Jhonny Deep",
+			"category": 4,
+			"stack": 1,
+			"state": 5,
+			"description": "Desenvolvedor a 6 anos"
     },
     {
       "id": 6,
-      "photo": "https://dpbnri2zg3lc2.cloudfront.net/en/wp-content/uploads/2021/01/Sam-CF.jpg",
-      "name": "Junior da Silva",
-			"category": 0,
-			"stack": 0,
-			"state": 0,
-			"description": "Desenvolvedor a x anos"
+      "photo": "https://t3.ftcdn.net/jpg/04/98/91/96/240_F_498919631_Me4XD0pVj0tX109wnyH7FIo6FHTb5J0E.jpg",
+      "name": "Maria Eduarda",
+			"category": 5,
+			"stack": 2,
+			"state": 6,
+			"description": "Desenvolvedor a 4 anos"
     },
     {
       "id": 7,
+      "photo": "https://t3.ftcdn.net/jpg/04/98/91/96/240_F_498919631_Me4XD0pVj0tX109wnyH7FIo6FHTb5J0E.jpg",
+      "name": "Karol Magnus",
+			"category": 4,
+			"stack": 2,
+			"state": 1,
+			"description": "Desenvolvedor a 8 anos"
+    },
+    {
+      "id": 8,
       "photo": "https://dpbnri2zg3lc2.cloudfront.net/en/wp-content/uploads/2021/01/Sam-CF.jpg",
-      "name": "Junior da Silva",
-			"category": 0,
-			"stack": 0,
-			"state": 0,
-			"description": "Desenvolvedor a x anos"
+      "name": "Rafael sampaio",
+			"category": 2,
+			"stack": 1,
+			"state": 6,
+			"description": "Desenvolvedor a 2 anos"
     }
   ]
 }
